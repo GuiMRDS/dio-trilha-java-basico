@@ -3,14 +3,15 @@ public class TiposVariaveis {
         //tipos primitivos
         //estudem a classe Strig que representa textp ma aplicaçao
 
-        String meuNome = "Guilherme Marinho";
+        //String meuNome = "Guilherme Marinho";
 
 
-        double salarioMinimo = 2500;
+        //double salarioMinimo = 2500;
 
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
         short numeroCurto2 = (short) numeroNormal;
+        System.out.println(numeroCurto2);
 
         int numero = 5;
 
