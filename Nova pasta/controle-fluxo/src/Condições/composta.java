@@ -1,3 +1,4 @@
+package Condições;
 public class composta {
     public static void main(String[] args) {
         int nota = 6;

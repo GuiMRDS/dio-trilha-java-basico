@@ -1,3 +1,4 @@
+package Condições;
 public class simples {
     public static void main(String[] args) throws Exception {
         
